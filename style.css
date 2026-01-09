@@ -52,7 +52,7 @@ body.dark .container {
 
 .btn {
   padding: 12px 20px;
-  background: #0078ff;
+  background: #19d025;
   color: white;
   border: none;
   border-radius: 8px;
@@ -63,7 +63,7 @@ body.dark .container {
 }
 
 .btn:hover {
-  background: #005fcc;
+  background: #19d025;
   transform: scale(1.05);
 }
 
